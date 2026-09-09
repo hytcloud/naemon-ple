@@ -25,5 +25,5 @@ Ensure the following prerequisites are met on the target Windows host:
 - Returns WARNING if 300 ≤ PLE < 1000 seconds
 - Returns CRITICAL if PLE PLE < 300 seconds
 - Exit codes follow Nagios plugin standards: 0=OK, 1=WARNING, 2=CRITICAL
-- Version: 2025/11/07
+- Version: 2026/09/09
 - [GitHub Repo](https://github.com/hytcloud/naemon-ple.git)
